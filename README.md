@@ -2,7 +2,7 @@
 
 <h3 align="center">A Tech Enthusiast passionate about creating meaningful solutions</h3>
 
-- 🔭 **Currently Working On:** TypeScript-based Database for small-scale applications  
+- 🔭 **Currently Working On:** Type-based no-sql Database for small-scale applications  
 - 🌱 **Learning:** Competitive Coding  
 - 💬 **Ask Me About:** React, JavaScript, Express, TypeScript  
 - 📫 **Reach Me At:** sandhanakrishnansakthivel@gmail.com  
