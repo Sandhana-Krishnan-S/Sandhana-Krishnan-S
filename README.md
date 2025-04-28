@@ -4,7 +4,7 @@
 
 - 🔭 **Currently Working On:** Finance tracking Application with UPI scan and pay  
 - 🌱 **Learning:** Competitive Coding  
-- 💬 **Ask Me About:** React, JavaScript, Express, TypeScript  
+- 💬 **Ask Me About:** React, JavaScript, Express, SpringBoot  
 - 📫 **Reach Me At:** sandhanakrishnansakthivel@gmail.com  
 
 --- 
