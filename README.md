@@ -20,6 +20,8 @@
 ### 🎨 Hobby
 - Drawing digital art and pencil sketch
 - Learning Japanese   
-- Playing games  
+- Playing games
+
+  --- 
 
 _**Let’s build something amazing together!**_
