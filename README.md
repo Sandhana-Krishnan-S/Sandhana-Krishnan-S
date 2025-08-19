@@ -2,7 +2,7 @@
 
 <h3 align="center">A Tech Enthusiast passionate about creating meaningful solutions</h3>
 
-- 🔭 **Currently Working On:** Finance tracking Application with UPI scan and pay  
+- 🔭 **Currently Working On:** Riceing My PoP-OS
 - 🌱 **Learning:** Competitive Coding  
 - 💬 **Ask Me About:** React, JavaScript, Express, SpringBoot  
 - 📫 **Reach Me At:** sandhanakrishnansakthivel@gmail.com  
