@@ -2,8 +2,8 @@
 
 <h3 align="center">A Tech Enthusiast passionate about creating meaningful solutions</h3>
 
-- 🔭 **Currently Working On:** Riceing My PoP-OS
-- 🌱 **Learning:** Competitive Coding  
+- 🔭 **Currently Working On:** Blender 3d & Unity
+- 🌱 **Learning:** 3d Modeling
 - 💬 **Ask Me About:** React, JavaScript, Express, SpringBoot  
 - 📫 **Reach Me At:** sandhanakrishnansakthivel@gmail.com  
 
